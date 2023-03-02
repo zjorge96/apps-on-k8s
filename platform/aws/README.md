@@ -1,1 +1,1 @@
-This platform is not yet supported. However, the [Azure platform](../azure/README.md) is ready to go.
+This platform is not yet supported. However, the [Azure platform](https://github.com/zjorge96/apps-on-k8s/tree/main/platform/azure) is ready to go.

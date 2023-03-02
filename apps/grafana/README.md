@@ -4,7 +4,7 @@ This is a simple example of how to use Grafana with InfluxDB. It uses the yaml f
 
 ## Prerequisites
 
-* Connected to a Kubernetes cluster. For Azure, look at the [Azure platform](../azure/README.md) for instructions on how to create and connect to a cluster.
+* Connected to a Kubernetes cluster. For Azure, look at the [Azure platform](https://github.com/zjorge96/apps-on-k8s/tree/main/platform/azure) for instructions on how to create and connect to a cluster.
 * [Helm](https://helm.sh/) installed
 
 ## Setup
