@@ -1,0 +1,1 @@
+This platform is not yet supported. However, the [Azure platform](../azure/README.md) is ready to go.
