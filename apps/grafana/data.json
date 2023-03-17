@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "orgId": 1,
+    "name": "InfluxDB2",
+    "type": "influxdb",
+    "typeName": "InfluxDB",
+    "typeLogoUrl": "public/app/plugins/datasource/influxdb/img/influxdb_logo.svg",
+    "access": "proxy",
+    "url": "http://grafana-influxdb2:80",
+    "database": "default",
+    "basicAuth": false,
+    "isDefault": true,
+    "readOnly": false
+  }

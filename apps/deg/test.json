@@ -1,0 +1,14 @@
+{"rsID":
+  {"action":"RECORDING_REQUESTED",
+    "ccid":"9999",
+    "rsId":"1c047ce2-8870-3072-852c-deae92a89105",
+    "chnnlId":"7438caaf-69bd-d76e-8091-3e5f60e57ad7",
+    "canonId":"1bb750d2-7b2a-2792-e21b-cdd8e41e6540",
+    "srsId":"",
+    "xtId":"SH009513260000",
+    "schDurSec":"1800",
+    "schStrtMillisecs":1539287671000,
+    "schEndMillisecs":1539289471000,
+    "count":40000
+  }
+}
